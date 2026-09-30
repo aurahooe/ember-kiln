@@ -1,2 +1,3 @@
-# ember-kiln
-Ember Kiln — a small press that fires a new edition every hour
+# Ember Kiln
+
+A small press. A new window every hour. Public slips stay on the floor.
